@@ -39,6 +39,10 @@ a {
   font-weight: bolder;
   font-variant: normal;
   text-decoration: none;
+  color:#2B609A;
+}
+a:visited {
+  color:#2B609A;
 }
 a.MenuHeader:visited {
   color:#FFFFFF;
