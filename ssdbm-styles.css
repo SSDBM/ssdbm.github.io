@@ -36,13 +36,13 @@
   font-variant: normal;
 }
 a {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
   font-weight: bolder;
-  color: #FFFFFF;
   font-variant: normal;
   text-decoration: none;
 }
 a.MenuHeader:visited {
   color:#FFFFFF;
+}
+a.MenuHeader:hover {
+  color:#2B609A;
 }
