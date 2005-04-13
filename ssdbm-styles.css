@@ -58,3 +58,6 @@ a.MenuHeader:hover {
 em {
   color:#FF0000;
 }
+.date-finished {
+  text-decoration: line-through;
+}
