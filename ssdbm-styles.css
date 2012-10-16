@@ -14,22 +14,22 @@
 }
 .BodyText {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 .BodyTextBold {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: bolder;
 }
 .ThirdHeader {
   font-family: "Times New Roman", Times, serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   color: #2B609A;
 }
 .FourthHeaderCopy {
   font-family: "Times New Roman", Times, serif;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: normal;
   color: #2B609A;
 }
